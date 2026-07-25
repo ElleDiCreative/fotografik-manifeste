@@ -2,6 +2,7 @@
 *Par Elda ROBINET-STAINIER, Fondatrice d’ElleDi Creative*
 
 ---
+![Logo FotoGraFik](images/fotografik-logo.png)
 
 ## 📌 **À propos de FotoGraFik**
 **FotoGraFik** est un **concept artistique** où la photographie libre des conventions rencontre le graphisme pour **capturer, organiser et détourner la complexité féconde des rues des Amériques, de la Caraïbe et d’Ailleurs**.
