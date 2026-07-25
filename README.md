@@ -5,24 +5,12 @@
 
 ## 📌 **À propos de FotoGraFik**
 **FotoGraFik** est un **concept artistique** où la photographie libre des conventions rencontre le graphisme pour **capturer, organiser et détourner la complexité féconde des rues des Amériques, de la Caraïbe et d’Ailleurs**.
+> Ce concept **ne se limite pas à une technique ou un style** : c’est une **vision du monde** où l’art devient un **langage universel** pour révéler ce qui, souvent, reste invisible. Ici, la photographie **dépasse le cadre** pour devenir une **rencontre** — entre l’artiste, l’espace, et ceux qui le traversent.
+
 
 Ce dépôt contient le **manifeste officiel** de FotoGraFik, ainsi que des ressources liées à ce concept.
 
----
 
-## 🎨 **Manifeste**
-
-> *« **FotoGraFik** est concept où la photographie libre des conventions rencontre le graphisme pour explorer la complexité féconde des rues des Amériques, de la Caraïbe et d’Ailleurs.
-> Inspirée par mes années passées dans ces territoires, je propose une vision où l’Humain et son environnement s’entremêlent pour révéler l’invisible.
->
-> Chaque image est une **rencontre** — entre moi, l’espace, et ceux qui le traversent. Je ne cherche pas à expliquer, mais à **fixer ces instants où la résilience, la beauté ou l’absurdité surgissent là où on ne les attend pas**.
->
-> Mon travail est une **invitation** : à voir le monde comme un réseau de connexions, où chaque détail — un regard, un reflet, une posture — est une porte ouverte sur une histoire plus grande. »*
-
----
-*© 2026 - Elda ROBINET / ElleDi Creative. Tous droits réservés.*
-
----
 
 ## 📜 **Licence**
 Ce manifeste est protégé par une **Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Pas de Modification 4.0 International (CC BY-NC-ND 4.0)**.
