@@ -10,6 +10,8 @@
 
 Ce dépôt contient le **manifeste officiel** de FotoGraFik, ainsi que des ressources liées à ce concept.
 
+👉 [Lire le manifeste complet](MANIFESTE_FOTOGRAFIK.md)
+
 
 
 ## 📜 **Licence**
