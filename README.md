@@ -1,4 +1,4 @@
-# **FotoGraFik : Manifeste d’une Pratique Artistique**
+# **FotoGraFik : Manifeste d’un Concept Artistique**
 *Par Elda ROBINET-STAINIER, Fondatrice d’ElleDi Creative*
 
 ---
